@@ -13,4 +13,17 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background-color: cornflowerblue;
+}
+
+#contenedor {
+  margin: 15% 45%;
+}
+
+#circulo {
+  background-color: rgb(255, 196, 0);
+  width: 20vh;
+  height: 20vh;
+  border-radius: 50%;
+  margin-left: 10%;
 }
